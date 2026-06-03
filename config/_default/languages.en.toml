@@ -1,0 +1,13 @@
+title = "Prakush"
+
+[params.author]
+   name = "Prakush Ram"
+   image = "prakush.png"
+   headline = "I'm only human"
+   bio = "A little bit about you" # appears in author card for each article
+   links = [
+  { twitter = "https://twitter.com/username" },
+  { github = "https://github.com/username" },
+  { linkedin = "https://linkedin.com/in/username" },
+  { instagram = "https://instagram.com/username" },
+]

@@ -3,11 +3,11 @@ title = "Prakush"
 [params.author]
    name = "Prakush Ram"
    image = "prakush.png"
-   headline = "I'm only human"
+   headline = "*योगः कर्मसु कौशलम्।*"
    bio = "A little bit about you" # appears in author card for each article
    links = [
-  { twitter = "https://twitter.com/username" },
-  { github = "https://github.com/username" },
-  { linkedin = "https://linkedin.com/in/username" },
-  { instagram = "https://instagram.com/username" },
+  { twitter = "https://twitter.com/PRAKUSH2611/" },
+  { github = "https://github.com/Prashant0313/" },
+  { linkedin = "https://linkedin.com/in/prashant-kush/" },
+  { instagram = "https://www.instagram.com/prakush_26/" },
 ]

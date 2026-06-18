@@ -29,7 +29,6 @@ title = 'vim'
   2. To delete from the cursor up to the end of the word type:  de
   3. To delete from the cursor to the end of a line type:       d$
   4. To delete a whole line type:                               dd 
-
   5. To repeat a motion prepend it with a number:   2w
   6. The format for a change command is:
                operator   [number]   motion
@@ -40,7 +39,6 @@ title = 'vim'
                   e (end of word),  $ (end of the line), etc.
 
   7. To move to the start of the line use a zero:  0
-
   8. To undo previous actions, type:           u  (lowercase u)
      To undo all the changes on a line, type:  U  (capital U)
      To undo the undos, type:                  CTRL-R
@@ -137,15 +135,10 @@ title = 'vim'
 
 
   1. Type  :help  or press <F1> or <HELP>  to open a help window.
-
   2. Type  :help cmd  to find help on  cmd .
-
   3. Type  CTRL-W CTRL-W  to jump to another window.
-
   4. Type  :q  to close the help window.
-
   5. Create a vimrc startup script to keep your preferred settings.
-
   6. When typing a  :  command, press CTRL-D to see possible completions.
      Press <TAB> to use one completion.
 

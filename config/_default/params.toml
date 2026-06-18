@@ -1,10 +1,11 @@
-colorScheme = "autumn"
+colorScheme = "avocado"
+defaultAppearance = "dark"
 disableImageOptimization = false
-defaultBackgroundImage = "ripples.svg" # used as default for background images 
+defaultBackgroundImage = "background2.jgp" # used as default for background images 
 
 [homepage]
   layout = "background" # valid options: page, profile, hero, card, background, custom
-  homepageImage = "fireflies.svg" # used in: hero, and card
+  homepageImage = "background2.jpg" # used in: hero, and card
   showRecent = true
   showRecentItems = 6
   showMoreLink = true
@@ -28,3 +29,6 @@ defaultBackgroundImage = "ripples.svg" # used as default for background images
   showCards = true
   groupByYear = false
   cardView = true
+
+[footer]
+  showThemeAttribution = false

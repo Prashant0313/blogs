@@ -1,8 +1,8 @@
-title = "Prakush"
+title = "P R A K U S H"
 
 [params.author]
    name = "Prakush Ram"
-   image = "prakush.png"
+   image = "prakush1.jpg"
    headline = "*योगः कर्मसु कौशलम्।*"
    bio = "A little bit about you" # appears in author card for each article
    links = [

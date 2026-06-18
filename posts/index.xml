@@ -1,4 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on P R A K U S H</title><link>https://prakush.in/posts/</link><description>Recent content in Posts on P R A K U S H</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© 2026 Prakush Ram</copyright><lastBuildDate>Wed, 03 Jun 2026 20:11:01 +0530</lastBuildDate><atom:link href="https://prakush.in/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>linux commands</title><link>https://prakush.in/posts/linux-commands/</link><pubDate>Wed, 03 Jun 2026 20:11:01 +0530</pubDate><guid>https://prakush.in/posts/linux-commands/</guid><description>&lt;h1 class="relative group"&gt;linux fundamentals from &lt;code&gt;scratch&lt;/code&gt;…
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on P R A K U S H</title><link>https://prakush.in/posts/</link><description>Recent content in Posts on P R A K U S H</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© 2026 Prakush Ram</copyright><lastBuildDate>Thu, 18 Jun 2026 22:33:03 +0530</lastBuildDate><atom:link href="https://prakush.in/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>SQL</title><link>https://prakush.in/posts/sql/</link><pubDate>Thu, 18 Jun 2026 22:33:03 +0530</pubDate><guid>https://prakush.in/posts/sql/</guid><description>&lt;h1 class="relative group"&gt;What is SQL?
+ &lt;div id="what-is-sql" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#what-is-sql" aria-label="Anchor"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h1&gt;
+&lt;p&gt;SQL, or Structured Query Language, is a language designed to allow both technical and non-technical users query, manipulate, and transform data from a relational database. And due to its simplicity, SQL databases provide safe and scalable storage for millions of websites and mobile applications.&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;strong&gt;Did you know?&lt;/strong&gt;
+There are many popular SQL databases including SQLite, MySQL, Postgres, Oracle and Microsoft SQL Server. All of them support the common SQL language standard, which is what this site will be teaching, but each implementation can differ in the additional features and storage types it supports.&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://prakush.in/posts/sql/feature.png"/></item><item><title>linux commands</title><link>https://prakush.in/posts/linux-commands/</link><pubDate>Wed, 03 Jun 2026 20:11:01 +0530</pubDate><guid>https://prakush.in/posts/linux-commands/</guid><description>&lt;h1 class="relative group"&gt;linux fundamentals from &lt;code&gt;scratch&lt;/code&gt;…
  &lt;div id="linux-fundamentals-from-scratch" class="anchor"&gt;&lt;/div&gt;
  
  &lt;span

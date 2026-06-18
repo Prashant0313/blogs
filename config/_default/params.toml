@@ -2,6 +2,7 @@ colorScheme = "avocado"
 defaultAppearance = "dark"
 disableImageOptimization = false
 defaultBackgroundImage = "background2.jgp" # used as default for background images 
+enableCodeCopy = true
 
 [homepage]
   layout = "background" # valid options: page, profile, hero, card, background, custom
@@ -31,4 +32,5 @@ defaultBackgroundImage = "background2.jgp" # used as default for background imag
   cardView = true
 
 [footer]
-  showThemeAttribution = false
+  showThemeAttribution = true
+
